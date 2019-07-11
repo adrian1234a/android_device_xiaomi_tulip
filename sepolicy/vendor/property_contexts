@@ -14,6 +14,9 @@ ro.boot.fp.                         u:object_r:vendor_fp_prop:s0
 sys.fp.                             u:object_r:vendor_fp_prop:s0
 ro.boot.fpsensor                    u:object_r:vendor_fp_prop:s0
 
+# Dirac
+persist.audio.dirac.                u:object_r:dirac_prop:s0
+
 # Mlipay
 persist.vendor.sys.pay.ifaa         u:object_r:ifaa_prop:s0
 

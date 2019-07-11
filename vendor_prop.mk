@@ -67,7 +67,3 @@ PRODUCT_PROPERTY_OVERRIDES +=  \
     ro.vendor.sdk.sensors.gestures=false \
     sys.autosuspend.timeout=500000 \
     drm.service.enabled=true
-
-# Mokee maintainer
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.mk.maintainer=rama982
